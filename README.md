@@ -1,1 +1,1 @@
-# cust_segm-ClusteringML
+# Customer Segmentation for a Bank
